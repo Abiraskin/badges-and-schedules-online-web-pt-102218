@@ -1,6 +1,8 @@
 require_relative '../conference_badges'
 
-badge_maker = ["Edsger", "Ada," "Charles", "Alan", "Grace", "Linus", "Matz"]
+name = ["Edsger", "Ada," "Charles", "Alan", "Grace", "Linus", "Matz"]
+
+badge_maker = (name)
 puts "Hello, my name is #{badge_maker}."
 
 badge_maker = ["Edsger", "Ada," "Charles", "Alan", "Grace", "Linus", "Matz"]
