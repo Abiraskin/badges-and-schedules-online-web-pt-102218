@@ -6,5 +6,5 @@ badge_maker = (name)
   end
 
 RSpec.configure do |config|
-  # config options here
+  
 end
