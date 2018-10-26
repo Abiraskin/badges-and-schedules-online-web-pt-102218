@@ -1,7 +1,5 @@
 require_relative '../conference_badges'
 
-name = ["Edsger", "Ada," "Charles", "Alan", "Grace", "Linus", "Matz"]
-
 badge_maker = ["Edsger", "Ada," "Charles", "Alan", "Grace", "Linus", "Matz"]
 badge_maker.each do |name|
     return "Hello, my name is #{name}."
