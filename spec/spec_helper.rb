@@ -1,7 +1,7 @@
 require_relative '../conference_badges'
 
 badge_maker = (name)
-puts "Hello, my name is #{name}"
+puts "Hello, my name is #{name}."
 
 badge_maker = ["Edsger", "Ada," "Charles", "Alan", "Grace", "Linus", "Matz"]
 badge_maker.each_with_index do |speaker, index|
